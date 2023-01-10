@@ -1,10 +1,10 @@
 # Practica-Clase Grupo 14
 
-##Objetivo:
+## Objetivo:
 
 La sesión de hoy facilita a los estudiantes del bootcamp Analista de proyectos digitales un acercamiento a Github a través de creación de respositorios con temas libres.
 
-##Tema:
+## Tema:
 
 **Gustitos Jireth**
 
